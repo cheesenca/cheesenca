@@ -6,13 +6,29 @@
 
 ---
 
-- I’m currently working on Generative AI and AI Agents.
-- I’m currently learning applied AI/ML and Mathematics.
-- Ask me about life.
-- How to reach me: [LinkedIn](https://www.linkedin.com/in/kevinjuancarlos/).
-- Pronouns: He / His / Him.
-- Fun fact: I initially set out to learn basic programming, however I unexpectedly came across Machine Learning resources.
+```
+#include <iostream> 
+#include <string> 
+using namespace std; 
 
+int main() { 
+    cout << "Kevin Juan Carlos" 
+    
+    string info = 
+        "I’m currently working on Generative AI and AI Agents." 
+        "I’m currently learning applied AI/ML and Mathematics."
+        "Ask me about life." 
+        "How to reach me: https://www.linkedin.com/in/kevinjuancarlos." 
+        "Pronouns: He / His / Him." 
+        "Fun fact: I initially set out to learn basic programming, however I unexpectedly came across Machine Learning resources." 
+        
+    cout << info << endl; 
+    
+    return 0;
+}
+"""
+
+```
 ---
 
 ###  Languages & Tools
