@@ -26,9 +26,8 @@ int main() {
     
     return 0;
 }
-"""
-
 ```
+
 ---
 
 ###  Languages & Tools
