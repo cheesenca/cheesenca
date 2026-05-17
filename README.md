@@ -1,10 +1,12 @@
 <h1 align="center">Hi👋, I'm Kevin Juan Carlos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&weight=1000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+about+Building+Design+Systems+and+Scalable+Architecture;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&weight=1000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&lines=Passionate+about+Building+Design+Systems+and+Scalable+Architecture;" alt="Typing SVG" />
 </p>
 
 ---
+
+###  Introduction
 
 ```cpp
 #include <iostream>
